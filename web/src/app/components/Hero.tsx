@@ -90,7 +90,7 @@ useEffect(() => {
     <div className="flex flex-col items-center gap-5 bg-no-repeat pt-10">
       
         <h1 className="flex items-center justify-center text-white uppercase text-3xl tracking-wider font-semibold">
-          Give Me Money !
+          Give Me Moneeey !
         </h1>
         
         {/* Wallet está conectada ? Se sim, vai mostrar mostrar o componente ou o codido a ser renderizado, 
