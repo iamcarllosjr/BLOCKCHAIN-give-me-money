@@ -7,7 +7,6 @@ export default function Home() {
     <div>
       <Hero />
       <Footer />
-
     </div>
     
   )
