@@ -87,7 +87,7 @@ useEffect(() => {
   return (
     <section className="bg-hero-bg bg-cover h-screen">
       <Navbar />
-    <div className="flex flex-col items-center gap-5 bg-no-repeat pt-10">
+    <div className=" flex-col items-center gap-5 bg-no-repeat pt-10">
       
         <h1 className="flex items-center justify-center text-white uppercase text-3xl tracking-wider font-semibold">
           Give Me Moneeey !
